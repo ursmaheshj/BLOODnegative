@@ -1,5 +1,5 @@
 <?php
-	include_once 'db.php';
+	require('db.php');
     // If form submitted, insert values into the database.
      
 		$fname=$_POST['fname'];
@@ -21,8 +21,10 @@
 
         
       $resultCheck=mysqli_query($conn,$sql);
-	  if ($resultCheck) {
-		echo "
+	
+	  mysqli_close($conn);
+	  ?>  
+		
 		<html>
 		<head><title>Registerform | success</title>
 		<link rel="stylesheet" href="styles.css">
@@ -51,10 +53,3 @@
 		<a href="index.php"> <span class="homer" align=right>Home</span></a>
 		</body>
 		</html>
-		"
-	  }
-
-	  mysqli_close($conn);
-	  ?>  
-		
-		
