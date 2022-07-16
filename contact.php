@@ -12,20 +12,20 @@
 		$message=$_POST['message'];
 		
 		$ceid=$_POST['ceid']; 
-		
-		foreach($_POST as $key=>$value)
-			{
 
-			if(empty(trim($value))
-					echo "$key input required of value ";
+		// foreach($_POST as $key=>$value)
+		// 	{
 
-			}
-		// if (isset($message,$ceid)) {
-		// 	# code...
-		// }
+		// 	if(empty(trim($value))
+		// 			echo "$key input required of value ";
+
+		// 	}
+		if (isset($message,$ceid)) {
+			# code...
+			$query = "INSERT into `contact` (message, ceid) VALUES('$message', '$ceid')";
+		}
 
 
-		$query = "INSERT into `contact` (message, ceid) VALUES('$message', '$ceid')";
         $result = mysqli_query($conn,$query);
         
 		mysqli_close($conn); //End connection to database
