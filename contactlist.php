@@ -1,17 +1,12 @@
 <html>
 <head>
 <title>blood donation|Contact List</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="styles.css">
 <script type="text/javascript" src="script.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 <style>
-table, th, td{
-	margin:auto;
-	margin:; 
-	background-color:black;
-	size:30px;
-	padding:10px;
-	color:white;
-}
 .donors{
 	color:black;
 	margin:50px 0px 0px 600px;
@@ -26,11 +21,11 @@ table, th, td{
 <a href="index.php"> <span class="home" align=right>Home</span></a>
 <h1 class="donors"><b>Contact List...</b></h1>
 <div>
-<table>
+<table class="table">
 <thead>
   <tr>
-       <th>Message</th>
-	   <th>Contact</th>
+       <th scope="col">Message</th>
+	   <th scope="col">Contact</th>
    </tr>	   
 </thead>
 <tbody>	   
