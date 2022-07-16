@@ -11,7 +11,7 @@
     
 		$message=$_POST['message'];
 		
-		$ceid=$_POST['ceid'];
+		$ceid=$_POST['ceid']; 
 		
 
         $query = "INSERT into `contact` (message, ceid) VALUES('$message', '$ceid')";              
@@ -41,7 +41,7 @@
 		</form> 
 		</span>  <br><br>
 		
-		<a class="con" href="registerform.php">Become a blood donor.</a>
+		<a class="con" href="registerform.php">Become a blood donor.</a><br>
 	    <a class="con" href="searchdonor.php">Search for donor.</a>
 		
 	</div>
