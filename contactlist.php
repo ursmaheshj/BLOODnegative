@@ -8,12 +8,12 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 
 </head>
-<body class="vpage">
+<body>
  
 <a href="index.php"> <span class="home" align=right>Home</span></a>
 <h1 class="donors"><b>Contact List...</b></h1>
 <div class="container">
-<table class="table">
+<table class="table table-success table-striped">
 <thead>
   <tr>
        <th scope="col">Message</th>
@@ -32,9 +32,8 @@ $sql=mysqli_query($conn,$query);
 	   echo '<tr>
 				<td>'.$row['message'].'</td>
 				<td>'.$row['ceid'].'</td>
-             </tr>'	;	
-   $no++;			 
-}
+             </tr>'	;		 
+    }
 ?>
 </tbody>
 </table>
