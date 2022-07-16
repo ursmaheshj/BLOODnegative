@@ -15,7 +15,6 @@
 		   <li><a class="st" href="contact.php">CONTACT</a></li>
 		</ul>
 	  </nav>
-        <span class="login"><a href="#">Log in</a></span>	  
    </header>
    
    <div class="divider"></div>

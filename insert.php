@@ -7,8 +7,6 @@
 		$lname=$_POST['lname'];
 		
 		$bloodgr=$_POST['bloodgr'];
-
-		$availability=$_POST['availability'];
 		
 		$pincode =$_POST['pincode'];
 	
@@ -18,7 +16,7 @@
 		
 		$pass=$_POST['pass'];
 
-        $sql = "INSERT into `volunteer` (fname, lname, bloodgr, availability, pincode, mbno, eid, pass) VALUES('$fname', '$lname', '$bloodgr', '$availability', '$pincode', '$mbno', '$email', '$pass')";  
+        $sql = "INSERT into `volunteer` (fname, lname, bloodgr, pincode, mbno, eid, pass) VALUES('$fname', '$lname', '$bloodgr', '$pincode', '$mbno', '$email', '$pass')";  
       $resultCheck=mysqli_query($conn,$sql);
 	  ?>  
 		<html>
