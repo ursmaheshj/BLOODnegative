@@ -1,6 +1,8 @@
-
+function feedback(){
+	alert("Thank you for your valuable feedback");
+}
 function success(){
-alert("Congratulations You have successfully registered");
+	alert("Congratulations You have successfully registered");
 }
 function lettersOnly(input){
 	var regex=/[^a-z]/gi;
