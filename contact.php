@@ -13,13 +13,14 @@
 		
 		$ceid=$_POST['ceid']; 
 		
-		if ($message!=null and $ceid!=null) {
+		foreach($_POST as $key=>$value)
+			{
+
+			if(empty(trim($value))
+					echo "$key input required of value ";
+
+			}
 			
-			$query = "INSERT into `contact` (message, ceid) VALUES('$message', '$ceid')";              
-		}
-		else{
-		    echo "provide the fields".
-		}
         $result = mysqli_query($conn,$query);
         
 		mysqli_close($conn); //End connection to database
