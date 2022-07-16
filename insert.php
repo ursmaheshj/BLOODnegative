@@ -21,9 +21,8 @@
 
         
       $resultCheck=mysqli_query($conn,$sql);
-
-	  mysqli_close($conn);
-	  ?>  
+	  if ($resultCheck) {
+		echo "
 		<html>
 		<head><title>Registerform | success</title>
 		<link rel="stylesheet" href="styles.css">
@@ -52,4 +51,10 @@
 		<a href="index.php"> <span class="homer" align=right>Home</span></a>
 		</body>
 		</html>
+		"
+	  }
+
+	  mysqli_close($conn);
+	  ?>  
+		
 		
