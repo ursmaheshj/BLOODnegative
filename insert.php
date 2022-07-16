@@ -18,6 +18,9 @@
 			# code...
 			$sql = "INSERT into `volunteer` (fname, lname, bloodgr, pincode, mbno, eid) VALUES('$fname', '$lname', '$bloodgr', '$pincode', '$mbno', '$email')";
 		}
+		else{
+			echo "nooooo";
+		}
 
         
       $resultCheck=mysqli_query($conn,$sql);
