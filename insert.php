@@ -14,7 +14,11 @@
 
 		$email=$_POST['eid'];
 
-		$sql = "INSERT into `volunteer` (fname, lname, bloodgr, pincode, mbno, eid) VALUES('$fname', '$lname', '$bloodgr', '$pincode', '$mbno', '$email')";
+		if (isset($fname,$lname,$bloodgr,$pincode,$mbno)) {
+			# code...
+			$sql = "INSERT into `volunteer` (fname, lname, bloodgr, pincode, mbno, eid) VALUES('$fname', '$lname', '$bloodgr', '$pincode', '$mbno', '$email')";
+		}
+
         
       $resultCheck=mysqli_query($conn,$sql);
 	  ?>  
