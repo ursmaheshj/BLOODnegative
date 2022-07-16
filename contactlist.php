@@ -34,6 +34,7 @@ $sql=mysqli_query($conn,$query);
 				<td>'.$row['ceid'].'</td>
              </tr>'	;		 
     }
+    mysqli_close($conn); //End connection to database
 ?>
 </tbody>
 </table>

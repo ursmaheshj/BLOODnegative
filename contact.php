@@ -17,7 +17,7 @@
         $query = "INSERT into `contact` (message, ceid) VALUES('$message', '$ceid')";              
         $result = mysqli_query($conn,$query);
         
-		
+		mysqli_close($conn); //End connection to database
 ?>
    <header>
       <nav>
