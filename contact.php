@@ -8,20 +8,24 @@
 <?php
 	require('db.php');
     // If form submitted, insert values into the database.
-    foreach($_POST as $key=>$value)
+
+		$message=$_POST['message'];
+		
+		$ceid=$_POST['ceid']; 
+		
+		foreach($_POST as $key=>$value)
 			{
 
 			if(empty(trim($value))
 					echo "$key input required of value ";
 
 			}
+		// if (isset($message,$ceid)) {
+		// 	# code...
+		// }
 
-		$message=$_POST['message'];
-		
-		$ceid=$_POST['ceid']; 
-		
-		
 
+		$query = "INSERT into `contact` (message, ceid) VALUES('$message', '$ceid')";
         $result = mysqli_query($conn,$query);
         
 		mysqli_close($conn); //End connection to database
