@@ -21,6 +21,8 @@
 
         
       $resultCheck=mysqli_query($conn,$sql);
+
+	  mysqli_close($conn);
 	  ?>  
 		<html>
 		<head><title>Registerform | success</title>

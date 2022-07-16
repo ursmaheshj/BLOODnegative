@@ -65,6 +65,7 @@ $sql=mysqli_query($conn,$query);
              </tr>'	;	
    $no++;			 
 }
+mysqli_close($conn);
 ?>
 </tbody>
 </table>
