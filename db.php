@@ -1,6 +1,6 @@
 <?php
 $sname="localhost";
-$un="root@localhost";
+$un="root";
 $pass="";
 $db="blooddonation";
 $conn = mysqli_connect($sname, $un, $pass, $db);
