@@ -5,32 +5,7 @@
 <script type="text/javascript" src="script.js"></script>
 </head>
 <body>
-<?php
-	require('db.php');
-    // If form submitted, insert values into the database.
-
-		$message=$_POST['message'];
-		
-		$ceid=$_POST['ceid']; 
-
-		// foreach($_POST as $key=>$value)
-		// 	{
-
-		// 	if(empty(trim($value))
-		// 			echo "$key input required of value ";
-
-		// 	}
-		if (isset($message,$ceid)) {
-			# code...
-			$query = "INSERT into `contact` (message, ceid) VALUES('$message', '$ceid')";
-		}
-
-
-        $result = mysqli_query($conn,$query);
-        
-		mysqli_close($conn); //End connection to database
-?>
-   <header>
+<header>
       <nav>
 	    <h1>BLOOD negative</h1>
 		<ul id="nav">
@@ -62,6 +37,31 @@ copyrights &copy reserved by BLOODnegative since 2019.<br>
 <u>support@bloodnegative.com</u>
 </footer>
 </body>
+<?php
+	require('db.php');
+    // If form submitted, insert values into the database.
+
+		$message=$_POST['message'];
+		
+		$ceid=$_POST['ceid']; 
+
+		// foreach($_POST as $key=>$value)
+		// 	{
+
+		// 	if(empty(trim($value))
+		// 			echo "$key input required of value ";
+
+		// 	}
+		if (isset($message,$ceid)) {
+			# code...
+			$query = "INSERT into `contact` (message, ceid) VALUES('$message', '$ceid')";
+		}
+
+
+        $result = mysqli_query($conn,$query);
+        
+		mysqli_close($conn); //End connection to database
+?>
 
 
 </html>
