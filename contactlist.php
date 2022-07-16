@@ -35,21 +35,14 @@ table, th, td{
 </thead>
 <tbody>	   
 <?php
-$fd=$_POST['fd'];
-$cd=$_POST['cd'];
 
 include_once 'db.php';
-
-       
-
-$no = 1;
 
 $query="select *from contact;";
 $sql=mysqli_query($conn,$query);
 	while($row = mysqli_fetch_array($sql))
 	{  
 	   echo '<tr>
-			    <td>'.$no.'</td>
 				<td>'.$row['message'].'</td>
 				<td>'.$row['ceid'].'</td>
              </tr>'	;	
