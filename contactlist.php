@@ -20,7 +20,7 @@
  
 <a href="index.php"> <span class="home" align=right>Home</span></a>
 <h1 class="donors"><b>Contact List...</b></h1>
-<div>
+<div class="container">
 <table class="table">
 <thead>
   <tr>
