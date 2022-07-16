@@ -23,7 +23,7 @@
 		<form action="contact.php" method="post">
 		<textarea class="form3" placeholder="Message/Report/Feedback" name="message" required></textarea><br>
 		<input class="form3" type="email" name="ceid" placeholder="example@gmail.com" required><br>
-		<input onclick="feedback();" class="form2" type="submit" value="submit" name="submit"><br>
+		<input class="form2" type="submit" value="submit" name="submit"><br>
 		</form> 
 		</span>  <br><br>
 		
