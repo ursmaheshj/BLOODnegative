@@ -29,7 +29,6 @@
 	PIN code:<input class="form1" type="text" name="pincode" maxlength="6" onkeyup="digitOnly(this)" required>
 	Email ID:<input class="form1" name="eid" type="email" required>
 	USERNAME / Mobile NO:<input class="form1" type="text" name="mbno" onkeyup="digitOnly(this)" maxlength="10"  required>
-	PASSWORD:<input class="form1" name="pass" type="password" required>
 	<button class="form2" type="submit" name="submit">Submit</button>
     </form>
 </div>

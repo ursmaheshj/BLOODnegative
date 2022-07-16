@@ -13,10 +13,9 @@
 		$mbno=$_POST['mbno'];
 
 		$email=$_POST['eid'];
-		
-		$pass=$_POST['pass'];
 
-        $sql = "INSERT into `volunteer` (fname, lname, bloodgr, pincode, mbno, eid, pass) VALUES('$fname', '$lname', '$bloodgr', '$pincode', '$mbno', '$email', '$pass')";  
+		$sql = "INSERT into `volunteer` (fname, lname, bloodgr, pincode, mbno, eid) VALUES('$fname', '$lname', '$bloodgr', '$pincode', '$mbno', '$email')";
+        
       $resultCheck=mysqli_query($conn,$sql);
 	  ?>  
 		<html>
