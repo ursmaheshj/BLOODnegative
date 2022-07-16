@@ -10,9 +10,9 @@
 	    <h1>BLOOD negative</h1>
 		<ul id="nav">
 		   <li><a class="active" href="#">HOME</a></li>
-		   <li><a class="st" href="about.html">ABOUT US</a></li>
-		   <li><a class="st" href="gallery.html">GALLERY</a></li>
-		   <li><a class="st" href="contact.html">CONTACT</a></li>
+		   <li><a class="st" href="about.php">ABOUT US</a></li>
+		   <li><a class="st" href="gallery.php">GALLERY</a></li>
+		   <li><a class="st" href="contact.php">CONTACT</a></li>
 		</ul>
 	  </nav>
         <span class="login"><a href="#">Log in</a></span>	  

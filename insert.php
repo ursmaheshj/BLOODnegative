@@ -46,7 +46,7 @@
 		</head>
 		<body>
 		<h1 class="re">YOU HAVE REGISTERED SUCCESSFULLY !</h1><br>
-		<a href="index.php"> <span class="homer" align=right>Home</span></a>
+		<a href="index.php"> <span class="home" align=right>Home</span></a>
 		</body>
 		</html>
 		
