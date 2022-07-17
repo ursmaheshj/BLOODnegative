@@ -296,7 +296,7 @@ marquee{
 .image{
 	background:gray;
 }
-img{
+.img img{
 	max-width:600px;
 	max-height:500px;
 	margin:auto;

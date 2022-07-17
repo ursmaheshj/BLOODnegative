@@ -17,7 +17,7 @@
    </header>
 <div class="divider"></div>
 
-<div class="container">
+<div class="container image">
   <div class="row  justify-content-evenly">
     <div class="col-4 img">
 	<img src="image/a1.jpg">
