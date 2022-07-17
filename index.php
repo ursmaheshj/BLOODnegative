@@ -78,7 +78,6 @@
 	    </span>
 		  
 </div>          
-<div class="divider"></div>
 
 </body>
 </html>

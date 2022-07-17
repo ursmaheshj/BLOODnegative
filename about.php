@@ -18,11 +18,11 @@
    <div class="divider"></div>
    <div class="aboutimg">
         <span class="abouttext">
-                <span class="abt"><b>"MUST DONATE BLOOD! CAUSE, YOU CAN BE THE RECEIVER TOMORROW..."</b></span><br><br>		      
+                <span class="abt"><b>"MUST DONATE BLOOD! AS YOU CAN BE THE RECEIVER TOMORROW..."</b></span><br><br>		      
 			  <b><i><u>Why are we here ?</u></i></b><br><br>
 			  Many times we have witnessed loss of life for the only reason that a donor
-		      was not available at the <br>most needed hour. Is there something that we as a responsible
- 			  citizen can do to prevent this.<br><br>
+		      was not available at the <br>most needed hour. Is it anything that we as a responsible
+ 			  citizen can do something to prevent this.<br><br>
 			  "BLOOD negative" is an public organisation that brings voluntary blood donors and 
 			  those in <br>need of blood on to a common platform. Through this website, we seek donors
 			  who are willing <br>to donate blood, as well as provide the timeliest support to those in 
