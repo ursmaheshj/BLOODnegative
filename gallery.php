@@ -20,18 +20,18 @@
 <div class="container image">
   <div class="row  justify-content-evenly">
     <div class="col-4 img">
-	<img src="image/a1.jpg">
+	<img class="img-fluid" src="image/a1.jpg">
     </div>
     <div class="col-4 img">
-	<img src="image/b2.jpg">
+	<img class="img-fluid" src="image/b2.jpg">
     </div>
   </div>
   <div class="row justify-content-evenly">
     <div class="col-4 img">
-	<img src="image/c3.jpg">
+	<img class="img-fluid" src="image/c3.jpg">
     </div>
     <div class="col-4 img">
-	<img src="image/d4.jpg">
+	<img class="img-fluid" src="image/d4.jpg">
     </div>
   </div>
 </div>
