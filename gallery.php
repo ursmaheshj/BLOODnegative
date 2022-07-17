@@ -16,8 +16,25 @@
 	  </nav>
    </header>
 <div class="divider"></div>
+
+<div class="container">
+  <div class="row justify-content-evenly">
+    <div class="col-4">
+	<img src="image/a1.jpg">
+    </div>
+    <div class="col-4">
+	<img src="image/b2.jpg">
+    </div>
+	<div class="col-4">
+	<img src="image/c3.jpg">
+    </div>
+	<div class="col-4">
+	<img src="image/d4.jpg">
+    </div>
+  </div>
+</div>
+
  <div class="img img-fluid">
-	<img src="image/a1.jpg"><br>
 	<img src="image/b2.jpg"><br>
 	<img src="image/c3.jpg"><br>
 	<img src="image/d4.jpg"><br>
