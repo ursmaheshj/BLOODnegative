@@ -18,7 +18,7 @@
 <div class="divider"></div>
 
 <div class="container">
-  <div class="row justify-content-evenly">
+  <div class="row img img-fluid justify-content-evenly">
     <div class="col-4">
 	<img src="image/a1.jpg">
     </div>
@@ -34,11 +34,6 @@
   </div>
 </div>
 
- <div class="img img-fluid">
-	<img src="image/b2.jpg"><br>
-	<img src="image/c3.jpg"><br>
-	<img src="image/d4.jpg"><br>
- </div>
  <div class="divider"></div>
 <footer>
 copyrights &copy reserved by BLOODnegative since 2019.<br>
