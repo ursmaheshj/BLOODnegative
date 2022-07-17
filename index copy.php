@@ -1,7 +1,7 @@
 <?php include 'header.php' ?>
 <div class="bg-image img-fluid" 
      style="background-image: url('image/bloodcell.jpg');
-     ">
+     height: 100vh">
 <div class='container'>
 	
 <nav class="navbar navbar-expand-lg bg-light">
@@ -33,7 +33,41 @@
 <div class="container">
   <div class="row justify-content-evenly">
     <div class="col-4">
-      One of two columns
+    <marquee direction="up" >
+		    <ol>
+			   <li>Upcoming blood donation camps :
+			     <ul>
+				   <li>JAIPUR : 12 sep 2019.</li>
+				   <li>NANDED : 20 sep 2019.</li>
+				   <li>BHOPAL : 24 sep 2019.</li>
+				   <li>MUMBAI : 28 sep 2019.</li>
+				   <li>NAGPUR : 02 oct 2019.</li>
+				 </ul>
+			   
+			   </li><br>
+			   <li>All volunteers are here by informed that they are 
+			   invited for the certificate distribution ceremony:- <br>
+			   Venue : Narmada function hall, Bangalore.<br>
+			   Date : 02-oct-2019.<br>
+               Time : 3pm-5pm.
+               			   
+			   </li><br>
+			   <li>Blood donation rallies :<br>
+			    <ul>
+				   <li>PUNE:<br>
+				    Date: 26 sep 2019.
+				   </li>
+				   <li>DELHI:<br>
+				   Date: 30 sep 2019.
+				   </li>
+				   <li>CHENNAI:<br>
+				   Date: 04 oct 2019.
+				   </li>
+			   
+			    </ul>   
+			    </li>
+			</ol>   
+		   </marquee>
     </div>
     <div class="col-4">
 
@@ -66,6 +100,5 @@
 </div>
 
 </div>
-</div>
-
 <?php include 'footer.php' ?>
+</div>
