@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>blood donation|contact us</title>
+<title>blood donation</title>
 <link rel="stylesheet" href="styles.css">
 <script type="text/javascript" src="script.js"></script>
 </head>
@@ -45,20 +45,13 @@ copyrights &copy reserved by BLOODnegative since 2019.<br>
 		
 		$ceid=$_POST['ceid']; 
 
-		// foreach($_POST as $key=>$value)
-		// 	{
-
-		// 	if(empty(trim($value))
-		// 			echo "$key input required of value ";
-
-		// 	}
 		if (isset($message,$ceid)) {
 			# code...
 			$query = "INSERT into `contact` (message, ceid) VALUES('$message', '$ceid')";
+			$result = mysqli_query($conn,$query);
 		}
 
 
-        $result = mysqli_query($conn,$query);
         
 		mysqli_close($conn); //End connection to database
 ?>

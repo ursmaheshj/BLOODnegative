@@ -2,7 +2,6 @@
 <head>
 <title>blood donation| home</title>
 <link rel="stylesheet" href="styles.css">
-<script type="text/javascript" src="script.js"></script>
 </head>
 <body>
    <header>
@@ -80,9 +79,6 @@
 		  
 </div>          
 <div class="divider"></div>
-<footer>
-copyrights &copy reserved by BLOODnegative since 2019.<br>
-<u>support@bloodnegative.com</u>
-</footer>
+
 </body>
 </html>

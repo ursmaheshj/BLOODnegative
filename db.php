@@ -1,8 +1,8 @@
 <?php
-$sname="localhost";
-$un="root";
-$pass="";
-$db="blooddonation";
+$sname="sql108.epizy.com";
+$un="epiz_32181734";
+$pass="fFEavfbpI6ZqlX";
+$db="epiz_32181734_blooddonation";
 $conn = mysqli_connect($sname, $un, $pass, $db);
 // Check connection
 if (!$conn)
