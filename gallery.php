@@ -18,9 +18,9 @@
 <div class="divider"></div>
  <div class="image">
 <img src="image/b1.jpg"><br>
-<img src="image/d2.jpeg"><br>
-<img src="image/d3.jpeg"><br>
-<img src="image/ds.jpeg"><br>
+<img src="image/b2.jpeg"><br>
+<img src="image/b3.jpeg"><br>
+<img src="image/b4.jpeg"><br>
  </div>
  <div class="divider"></div>
 <footer>
