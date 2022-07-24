@@ -1,8 +1,10 @@
-## Welcome to BLOODnegative
+## BLOODnegative
 
-You can use the [editor on GitHub](https://github.com/ursmaheshj/BLOODnegative/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Many times we have witnessed loss of life for the only reason that a donor was not available at the most needed hour. Is there something that we as a responsible citizen can do to prevent this.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"BLOOD negative" is an public organisation that brings voluntary blood donors and those in need of blood on to a common platform. Through this website, we seek donors who are willing to donate blood, as well as provide the timeliest support to those in frantic need of it.
+
+Our mission is to fulfill every blood request in india by providing a promising web-platform and motivating individuals who are willing to donate blood.
 
 ### Markdown
 
