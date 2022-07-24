@@ -1,6 +1,20 @@
-## BLOODnegative
+## [BLOODnegative](url)
 
-This was my first college project where i build a fully functional website using HTML, CSS and JavaScript at frontend and backend with PHP.
+This was my very first college project where I developed a fully functional dynamic website and deployed over internet using **InfinityFree**.
+
+### Requirements
+
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP 
+5. SQL 
+6. MySQL
+7. XAMPP 
+
+### Flow Diagram
+
+![Image](images/flowdiagram.jpg)
 
 ### About the Platform
 
@@ -8,7 +22,7 @@ This was my first college project where i build a fully functional website using
 
 ![Image](images/home.png)
 
-- **About Us**: This is contains a summary of the significance of the _Blood Negative_ platform in modern society and how it might benefit patients. 
+- **About Us**: This contains a summary of the significance of the _Blood Negative_ platform in modern society and how it might benefit patients. 
 
 ![Image](images/aboutus.png)
 
@@ -28,9 +42,6 @@ This was my first college project where i build a fully functional website using
 
 ![Image](images/search.png)
 
-
-
-- 
 
     
 ```
