@@ -1,8 +1,8 @@
-## [BLOODnegative](https://bloodnegative.epizy.com/)
+## [BLOODnegative](https://bloodnegative.epizy.com/){:target="_blank"}
 
-This was my very first college project where I developed a fully functional dynamic website and deployed over internet using **InfinityFree**. 
+This was my very first college project where I developed a fully functional dynamic website and deployed over internet using _InfinityFree_. 
 
-To view website [click here ](https://bloodnegative.epizy.com/)
+**To view website _[click here]_(https://bloodnegative.epizy.com/){:target="_blank"}**
 
 ### Requirements
 
@@ -19,7 +19,7 @@ To view website [click here ](https://bloodnegative.epizy.com/)
 ![Image](images/flowdiagram.jpg)
 
 ### About the Platform
-```
+
 - **Home Page**: When you first visit a website, it displays an elegant home page, like the one below, with information on upcoming donation camps and links to register as donors or search for donors.
 
 ![Image](images/home.png)
@@ -43,27 +43,11 @@ To view website [click here ](https://bloodnegative.epizy.com/)
 - **Search form**: By entering your blood group and area code, you can find the needed donor.
 
 ![Image](images/search.png)
-```
 
+### How it works
+
+The actual working of the platform solely depends on the two entities _PIN Code_ and _Blood group_. We ask users to supply this information when they sign up to be blood donors; afterwards, when a patient searches for the Donor, they must also provide the same information. We then apply a filter to the data based on these parameters to show the corresponding blood donors.
     
-```
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ursmaheshj/BLOODnegative/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
