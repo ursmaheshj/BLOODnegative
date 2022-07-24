@@ -19,7 +19,7 @@ To view website [click here ](https://bloodnegative.epizy.com/)
 ![Image](images/flowdiagram.jpg)
 
 ### About the Platform
-
+```
 - **Home Page**: When you first visit a website, it displays an elegant home page, like the one below, with information on upcoming donation camps and links to register as donors or search for donors.
 
 ![Image](images/home.png)
@@ -43,7 +43,7 @@ To view website [click here ](https://bloodnegative.epizy.com/)
 - **Search form**: By entering your blood group and area code, you can find the needed donor.
 
 ![Image](images/search.png)
-
+```
 
     
 ```
