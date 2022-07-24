@@ -1,6 +1,8 @@
-## [BLOODnegative](url)
+## [BLOODnegative](https://bloodnegative.epizy.com/)
 
-This was my very first college project where I developed a fully functional dynamic website and deployed over internet using **InfinityFree**.
+This was my very first college project where I developed a fully functional dynamic website and deployed over internet using **InfinityFree**. 
+
+To view website [click here ](https://bloodnegative.epizy.com/)
 
 ### Requirements
 
