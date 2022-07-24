@@ -8,18 +8,25 @@ This was my first college project where i build a fully functional website using
 
 ![Image](images/home.png)
 
-- **About Us**: This page shows basic details about the _BLOOD negative_ platform.
+- **About Us**: This is contains a summary of the significance of the _Blood Negative_ platform in modern society and how it might benefit patients. 
 
 ![Image](images/aboutus.png)
 
-- **Gallery**: It contains the images about the blood donation camps.
+- **Gallery**: It helps to encourage blood donation by displaying pictures of blood donation camps.
 
 ![Image](images/gallery.png)
 
-- **Contact us**: It contains the images about the blood donation camps.
+- **Contact us**: This offers a feedback form so users may express their opinions on the platform.
 
 ![Image](images/contactus.png)
 
+- **Register form**: Here, you can register to become a donor by providing your basic contact information and blood type.
+
+![Image](images/register.png)
+
+- **Search form**: By entering your blood group and area code, you can find the needed donor.
+
+![Image](images/search.png)
 
 
 
