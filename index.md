@@ -1,12 +1,18 @@
 ## BLOODnegative
 
-This was my first college project where i build a fully functional website using HTML, CSS and JavaScript at frontend and backend with PHP
+This was my first college project where i build a fully functional website using HTML, CSS and JavaScript at frontend and backend with PHP.
 
 ### About the Platform
 
-- Home Page: As you open a website it shows you an elegant home page as shown below, with all the details about upcoming donation camp and provides you with links to register as a donor or search for a donor.
+- **Home Page**: When you first visit a website, it displays an elegant home page, like the one below, with information on upcoming donation camps and links to register as donors or search for donors.
 
-![Image](images/home.png)
+![Image](images/home.png){:height="36px" width="36px"}.
+
+- **About Us**: This page shows basic details about the _BLOOD negative_ platform.
+
+![Image](images/aboutus.png)
+
+
 
 
 - 
