@@ -6,12 +6,15 @@ Many times we have witnessed loss of life for the only reason that a donor was n
 
 Our mission is to fulfill every blood request in india by providing a promising web-platform and motivating individuals who are willing to donate blood.
 
-### Markdown
+### How it works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BLOODnegative platform provides us with two interface
+1. Resgister as a donor:
+    You can give your basic residential and blood related details and register as a donor by filling register form.
+2. Search for a donor:
+    If you need any kind of blood then you can come over to the platform fill a search form and find for a suitable donor for your requirement.
 
-```markdown
-Syntax highlighted code block
+    
 
 # Header 1
 ## Header 2
