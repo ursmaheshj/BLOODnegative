@@ -6,11 +6,19 @@ This was my first college project where i build a fully functional website using
 
 - **Home Page**: When you first visit a website, it displays an elegant home page, like the one below, with information on upcoming donation camps and links to register as donors or search for donors.
 
-![Image](images/home.png){:height="36px" width="36px"}.
+![Image](images/home.png)
 
 - **About Us**: This page shows basic details about the _BLOOD negative_ platform.
 
 ![Image](images/aboutus.png)
+
+- **Gallery**: It contains the images about the blood donation camps.
+
+![Image](images/gallery.png)
+
+- **Contact us**: It contains the images about the blood donation camps.
+
+![Image](images/contactus.png)
 
 
 
