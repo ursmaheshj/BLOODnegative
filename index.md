@@ -1,21 +1,18 @@
 ## BLOODnegative
 
-Many times we have witnessed loss of life for the only reason that a donor was not available at the most needed hour. Is there something that we as a responsible citizen can do to prevent this.
+This was my first college project where i build a fully functional website using HTML, CSS and JavaScript at frontend and backend with PHP
 
-"BLOOD negative" is an public organisation that brings voluntary blood donors and those in need of blood on to a common platform. Through this website, we seek donors who are willing to donate blood, as well as provide the timeliest support to those in frantic need of it.
+### About the Platform
 
-Our mission is to fulfill every blood request in india by providing a promising web-platform and motivating individuals who are willing to donate blood.
+- Home Page: As you open a website it shows you an elegant home page as shown below, with all the details about upcoming donation camp and provides you with links to register as a donor or search for a donor.
 
-### How it works
+[Image](images/home.png)
 
-BLOODnegative platform provides us with two interface
-1. Resgister as a donor:
-    You can give your basic residential and blood related details and register as a donor by filling register form.
-2. Search for a donor:
-    If you need any kind of blood then you can come over to the platform fill a search form and find for a suitable donor for your requirement.
+
+- 
 
     
-
+```
 # Header 1
 ## Header 2
 ### Header 3
