@@ -6,8 +6,8 @@ This was my first college project where i build a fully functional website using
 
 - Home Page: As you open a website it shows you an elegant home page as shown below, with all the details about upcoming donation camp and provides you with links to register as a donor or search for a donor.
 
-[Image](images/home.png)
-{% include image.html file="home.png" url="images/" alt="Jekyll" caption="This is a sample caption" %}
+![Image](images/home.png)
+
 
 - 
 
