@@ -4,6 +4,12 @@ This was my very first college project where I developed a fully functional dyna
 
 **To view website _[click here]_(https://bloodnegative.epizy.com/){:target="_blank"}**
 
+### Deployment 
+
+This website is deployed on **InfinityFree**, a popular free website hosting platform for PHP. It provides many free features along with database and SSL.
+
+If you want to know how to deploy website on **InfinityFree** [click here](https://bloodnegative.epizy.com/){:target="_blank"}
+
 ### Requirements
 
 1. HTML
@@ -17,6 +23,10 @@ This was my very first college project where I developed a fully functional dyna
 ### Flow Diagram
 
 ![Image](images/flowdiagram.jpg)
+
+### How it works
+
+The actual working of the platform solely depends on two entities _PIN Code_ and _Blood group_. We ask users to submit this information when they sign up to be blood donors; afterwards, when a patient searches for the Donor, they must also provide the same information. We then apply a filter to the data based on these parameters to show the corresponding blood donors.
 
 ### About the Platform
 
@@ -44,9 +54,6 @@ This was my very first college project where I developed a fully functional dyna
 
 ![Image](images/search.png)
 
-### How it works
-
-The actual working of the platform solely depends on the two entities _PIN Code_ and _Blood group_. We ask users to supply this information when they sign up to be blood donors; afterwards, when a patient searches for the Donor, they must also provide the same information. We then apply a filter to the data based on these parameters to show the corresponding blood donors.
     
 ### Jekyll Themes
 
