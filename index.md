@@ -54,14 +54,14 @@ The actual working of the platform solely depends on two entities _PIN Code_ and
 
 ![Image](images/search.png)
 
-### REFERENCES
+### References
 
-www.codeacademy.com
-www.w3school.com
-www.codecourse.com
-www.tutorialspoint.in
-www.sololearn.com
-www.guru99.com
-www.nareshit.in
-www.udemy.com
-www.stackoverflow.com
+- www.codeacademy.com
+- www.w3school.com
+- www.codecourse.com
+- www.tutorialspoint.in
+- www.sololearn.com
+- www.guru99.com
+- www.nareshit.in
+- www.udemy.com
+- www.stackoverflow.com
