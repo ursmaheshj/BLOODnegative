@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## [BLOODnegative](https://bloodnegative.epizy.com/){:target="_blank"}
 
 This was my very first college project where I developed a fully functional dynamic website and deployed over internet using _InfinityFree_. 
