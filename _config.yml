@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 show_downloads: true
-baseurl: "BLOODnegative/master"
+github:
+  zip_url: master
+  
